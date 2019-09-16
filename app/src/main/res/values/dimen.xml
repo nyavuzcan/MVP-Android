@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text Size -->
+
+    <dimen name="text_x_small">12sp</dimen>
+    <dimen name="text_small">13sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_large">16sp</dimen>
+    <dimen name="text_x_large">18sp</dimen>
+    <dimen name="text_header">20sp</dimen>
+
+
+    <!-- Margin Size -->
+
+    <dimen name="view_margin">12sp</dimen>
+    <dimen name="margin_x_small">13sp</dimen>
+    <dimen name="margin_small">14sp</dimen>
+    <dimen name="margin_medium">16sp</dimen>
+    <dimen name="margin_large">18sp</dimen>
+    <dimen name="margin_x_large">20sp</dimen>
+
+
+    <dimen name="main_card_view_margin_top">14sp</dimen>
+    <dimen name="main_card_view_height">16sp</dimen>
+    <dimen name="main_card_view_margin_side">18sp</dimen>
+    <dimen name="result_button_aargin_top">20sp</dimen>
+    <dimen name="result_button_margin_side">20sp</dimen>
+
+
+
+
+
+</resources>
